@@ -21,7 +21,7 @@ The goal of this analysis was to use advanced data storage to extract and visual
 
 ## Results:
 
-Using `sqlalchemy` I was able to generate a query session with the local database `hawaii.sqlite` to extract temp data specifically for the months of June and December. After retrieving the data, they were converted to lists then DataFrames to be easily read. 
+Using `sqlalchemy` I was able to generate a query session with the local database, `hawaii.sqlite`, to extract temp data specifically for the months of June and December. After retrieving the data, they were converted to lists then DataFrames to be easily read. 
 
 The `june_temps_df` had 1,700 data points and the `dec_temps_df` had 19,550 data points.
 
