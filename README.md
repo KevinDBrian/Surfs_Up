@@ -31,7 +31,7 @@ The `june_temps_df` had 1,700 data points and the `dec_temps_df` had 19,550 data
 Lastly, using the `.describe()` method on the DataFrames, I was able to find all relevant statistics pertaining to the temps during these months.
 
 ![](images/june_temps_df.describe().png)
-![](images/dec_temps_df.describe()png.png)
+![](images/dec_temps_df.describe().png)
 
 ## Summary:
 
